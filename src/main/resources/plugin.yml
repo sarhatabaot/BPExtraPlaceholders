@@ -1,0 +1,4 @@
+name: Bp Extra Placeholders
+version: '${project.version}'
+main: com.github.sarhatabaot.bpextraplaceholders.BpExtraPlaceholders
+api-version: 1.19
